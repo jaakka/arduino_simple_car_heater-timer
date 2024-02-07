@@ -4,4 +4,5 @@
 
 if you're thinking of doing something similar, I recommend using the millis variable to get a more accurate timing, here, of course, a few seconds won't hurt.
 
-https://www.youtube.com/shorts/ghCPQrDwNM0
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/ghCPQrDwNM0/mqdefault.jpg?sqp=CPyVj64G&amp;rs=AOn4CLAOtg-jpuGNQNdBOFBNpbQBLz4o_A&amp;retry=3)](https://youtube.com/shorts/ghCPQrDwNM0?feature=share)
+
