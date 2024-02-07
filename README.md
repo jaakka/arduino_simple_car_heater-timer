@@ -1,1 +1,2 @@
-# arduino_simple_car_heater-timer
+# Arduino powered car heater timer.
+
